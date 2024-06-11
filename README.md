@@ -1,27 +1,27 @@
-# Data Analyst Portfolio
+# Portfolio d'Analyste de Données
 
-Welcome to my data analyst portfolio. Here you will find a collection of projects that showcase my skills and experience in data analysis, using tools such as SQL, Python, Excel, Power BI, and more.
+Bienvenue sur mon portfolio d'analyste de données. Vous trouverez ici une collection de projets qui mettent en valeur mes compétences et mon expérience en analyse de données, utilisant des outils tels que SQL, Python, Excel, Power BI, et plus encore.
 
-## About Me
-I am currently a Data Analyst Senior at OpenClassrooms in Paris. I specialize in interpreting and analyzing complex data sets to extract meaningful information, helping organizations make informed decisions. My goal is to transform raw data into actionable insights, facilitating data-driven strategies and decision-making.
+## À propos de moi
+Je suis actuellement Data Analyst Senior chez OpenClassrooms à Paris. Je me spécialise dans l'interprétation et l'analyse d'ensembles de données complexes pour en extraire des informations significatives, aidant ainsi les organisations à prendre des décisions éclairées. Mon objectif principal est de transformer les données brutes en informations exploitables, facilitant les stratégies et la prise de décisions basées sur les données.
 
-I am ready to work in the United Kingdom to gain experience and one day work in the biggest industries.
+Je suis prêt à travailler au Royaume-Uni pour acquérir de l'expérience et, un jour, évoluer dans les plus grandes industries.
 
-## Projects
+## Projets
 
-### [Project 1 Title](projects/project1)
-- **Description**: Brief description of the project.
-- **Tools Used**: List of tools and technologies used.
-- **Highlights**: Key findings or results.
-- **[Link to Detailed Description](projects/project1/README.md)**
+### [Titre du Projet 1](projets/projet1)
+- **Description** : Brève description du projet.
+- **Outils Utilisés** : Liste des outils et technologies utilisés.
+- **Points Forts** : Résultats ou conclusions clés.
+- **[Lien vers la Description Détailée](projets/projet1/README.md)**
 
-### [Project 2 Title](projects/project2)
-- **Description**: Brief description of the project.
-- **Tools Used**: List of tools and technologies used.
-- **Highlights**: Key findings or results.
-- **[Link to Detailed Description](projects/project2/README.md)**
+### [Titre du Projet 2](projets/projet2)
+- **Description** : Brève description du projet.
+- **Outils Utilisés** : Liste des outils et technologies utilisés.
+- **Points Forts** : Résultats ou conclusions clés.
+- **[Lien vers la Description Détailée](projets/projet2/README.md)**
 
 ## Contact
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email** : votre.email@example.com
+- **LinkedIn** : [Votre Profil LinkedIn](https://linkedin.com/in/votreprofil)
+- **GitHub** : [Votre Profil GitHub](https://github.com/votreusername)
