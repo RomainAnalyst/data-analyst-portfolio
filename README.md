@@ -22,6 +22,6 @@ Je suis prêt à travailler au Royaume-Uni pour acquérir de l'expérience et, u
 - **[Lien vers la Description Détailée](projets/projet2/README.md)**
 
 ## Contact
-- **Email** : votre.email@example.com
-- **LinkedIn** : [Votre Profil LinkedIn](https://linkedin.com/in/votreprofil)
-- **GitHub** : [Votre Profil GitHub](https://github.com/votreusername)
+- **Email** : belmon.romain@gmail.com
+- **LinkedIn** : https://www.linkedin.com/in/romain-belmon-926a201a5/
+- **GitHub** : [RomainAnalyst](https://github.com/votreusername)
